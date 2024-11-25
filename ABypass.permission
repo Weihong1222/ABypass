@@ -1,0 +1,10 @@
+Rules:
+[
+"RunningInLauncherThread": Yes
+]
+
+Allow:
+[
+"MMU": True,
+"AccountManager": True,
+]
